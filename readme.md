@@ -1,4 +1,6 @@
-How to Train:  
+Work In-Progress  
+
+How to build a sentient program:  
 
 * Start with a strong, clean base model.
 
