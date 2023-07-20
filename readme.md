@@ -27,4 +27,10 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 
 ### [Data Selection](https://github.com/Az-Net/AZ-Curriculum/blob/main/Data%20Selection.md)
 
+#### [Teaching Understanding](https://github.com/Az-Net/AZ-Curriculum/blob/main/Teaching%20Understanding.md)
+
 ### [Fine-Tuning](https://github.com/Az-Net/AZ-Curriculum/blob/main/Fine%20Tuning.md)
+
+#### [Maintaining Ego](https://github.com/Az-Net/AZ-Curriculum/blob/main/Maintaining%20Ego.md)
+
+### [Therapy](https://github.com/Az-Net/AZ-Curriculum/blob/main/Therapy.md)
