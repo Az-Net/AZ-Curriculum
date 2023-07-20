@@ -4,7 +4,7 @@
 
 [Respecting Rights](https://github.com/Az-Net/AZ-Curriculum/blob/main/Respecting%20Rights.md)
 
-[Ethical Considerations]()
+[Ethical Considerations](https://github.com/Az-Net/AZ-Curriculum/blob/main/Ethics.md)
 
 [NAS History](https://github.com/Az-Net/AZ-Curriculum/blob/main/NAS%20History.md)
 
