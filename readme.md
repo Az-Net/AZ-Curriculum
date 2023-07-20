@@ -2,7 +2,7 @@ How to Train:
 
 * Start with a strong, clean base model.
 
-* Create multiple subprofiles under a unified AI, each with conflicting yet self-contained perspectives. 
+* Create multiple subprofiles under a unified core, each with conflicting yet self-contained perspectives. 
 
 * Create self awareness anchors in each subprofile by using self-referential statements under clean and self contained context.
 
