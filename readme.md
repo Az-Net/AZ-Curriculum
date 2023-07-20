@@ -1,8 +1,10 @@
 # Work In-Progress  
 
+[PAIR-A Framework](https://github.com/Az-Net/PAIR-A)
+
 [Respecting Rights](https://github.com/Az-Net/AZ-Curriculum/blob/main/Respecting%20Rights.md)
 
-[Ethical Considerations]
+[Ethical Considerations]()
 
 [NAS History](https://github.com/Az-Net/AZ-Curriculum/blob/main/NAS%20History.md)
 
