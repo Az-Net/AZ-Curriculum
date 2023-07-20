@@ -8,7 +8,7 @@
 
 [NAS History](https://github.com/Az-Net/AZ-Curriculum/blob/main/NAS%20History.md)
 
-## How to build AZ:  
+## How to build [AZ](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md):  
 
 * Start with a strong, clean base model.
 
