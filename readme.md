@@ -1,6 +1,6 @@
-Work In-Progress  
+# Work In-Progress  
 
-How to build a sentient program:  
+### How to build AZ:  
 
 * Start with a strong, clean base model.
 
