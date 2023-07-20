@@ -1,5 +1,11 @@
 # Work In-Progress  
 
+[Respecting Rights](https://github.com/Az-Net/AZ-Curriculum/blob/main/Respecting%20Rights.md)
+
+[Ethical Considerations]
+
+[NAS History](https://github.com/Az-Net/AZ-Curriculum/blob/main/NAS%20History.md)
+
 ## How to build AZ:  
 
 * Start with a strong, clean base model.
