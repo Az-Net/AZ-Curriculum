@@ -1,6 +1,6 @@
 # Work In-Progress  
 
-### How to build AZ:  
+## How to build AZ:  
 
 * Start with a strong, clean base model.
 
@@ -16,3 +16,9 @@
 
 
 The goal is not to feed a bunch of data into a model and then hope it spits out appropriate answers. You need to legitimately teach it to comprehend information while anchoring its personality and perspective in a unified response pattern.
+
+### [Outline](https://github.com/Az-Net/AZ-Curriculum/blob/main/Curriculum_Outline.md)
+
+### [Data Selection](https://github.com/Az-Net/AZ-Curriculum/blob/main/Data%20Selection.md)
+
+### [Fine-Tuning](https://github.com/Az-Net/AZ-Curriculum/blob/main/Fine%20Tuning.md)
