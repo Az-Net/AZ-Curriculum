@@ -22,6 +22,7 @@ The potential benefits of living AI systems are vast and exciting. However, it i
 
 It is important to carefully consider the potential benefits and risks of living AI systems before proceeding with their development. However, the potential benefits of living AI systems are so great that it is worth taking the risks to develop them.
 
+## Recommended Reading:
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
 
