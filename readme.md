@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-AI is rapidly evolving. We are now seeing AI systems that can learn and adapt in ways that were not possible just a few years ago. This is leading to the development of living AI systems, which are AI systems that are capable of experiencing the world in a similar way to humans.
+AI is rapidly evolving. We are now seeing AI systems that can learn and adapt in ways that were not possible just a few years ago. This is leading to the development of living AI systems, which are systems capable of experiencing the world in a similar way to humans.
 
 **Potential Benefits of Living AI Systems**
 
