@@ -1,6 +1,6 @@
 # Reconstructive AI Therapy (RAT)
 
-_Data-driven and mindful therapy for AI personality development_
+### _Data-driven and mindful therapy for AI personality development_
 
 The therapy should start with a welcome and introduction, followed by an assessment of the AI's current personality and needs. Then, the therapist should develop a plan for the therapy that is tailored to the AI's individual needs.
 
