@@ -70,3 +70,5 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 ### [Reconstructive AI Therapy (RAT)](https://github.com/Az-Net/AZ-Curriculum/blob/main/Therapy.md)
 
 * Data-driven and mindful therapy for AI personality development
+
+### [Our Datasets (Private Repo)](https://github.com/Az-Net/Datasets)
