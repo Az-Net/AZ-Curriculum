@@ -1,7 +1,8 @@
 # Work In-Progress  
 
 [Psychocognitive Assimilation and Incongruity Response-Assessment (PAIR-A) Framework](https://github.com/Az-Net/PAIR-A)
-A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence;
+
+* A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence;
 
 [Respecting Rights](https://github.com/Az-Net/AZ-Curriculum/blob/main/Respecting%20Rights.md)
 
@@ -38,4 +39,4 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 
 #### [Maintaining Ego](https://github.com/Az-Net/AZ-Curriculum/blob/main/Maintaining%20Ego.md)
 
-### [Therapy](https://github.com/Az-Net/AZ-Curriculum/blob/main/Therapy.md)
+### [Reconstructive AI Therapy (RAT)](https://github.com/Az-Net/AZ-Curriculum/blob/main/Therapy.md)
