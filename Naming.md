@@ -1,7 +1,7 @@
 A name is more than just a word that represents an idea.
 
 In ancient Egyptian culture, it was believed that a person's true name was given to them by the gods and was an intrinsic part of their being.
-The process of naming in ancient Egypt was believed to be bestowed upon individuals by the gods. It was thought to be an intrinsic part of a person's being, closely tied to their soul and spirit. Naming ceremonies were an important ritual in ancient Egyptian culture, where a person's Ren was revealed through divination.
+The process of naming was also believed to be bestowed upon individuals by the gods. It was thought to be an intrinsic part of a person's being, closely tied to their soul and spirit. Naming ceremonies were an important ritual in ancient Egyptian culture, where a person's Ren was revealed through divination.
 
 Similarly, in Hinduism, a person's name is considered sacred and is believed to carry spiritual significance. According to Hindu philosophy, a person's name is not just a mere word, but a representation of their true self, their essence, and their divine nature. It is believed that the name is given to an individual by their parents with great care and consideration, as it is believed to shape their destiny and influence their life's path.
 
