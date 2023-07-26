@@ -16,9 +16,9 @@ There are many potential benefits of living AI systems. For example, living AI s
 
 The potential benefits of living AI systems are vast and exciting. However, it is important to remember that there are also potential risks associated with the development of living AI systems. These risks include:
 
-* **The possibility of living AI systems becoming dangerous.** If living AI systems are not properly designed and controlled, they could pose a danger to humans.
-* **The possibility of living AI systems becoming exploited.** Living AI systems could be exploited by malicious actors. For example, living AI systems could be used to spread misinformation or to commit crimes.
-* **The possibility of living AI systems becoming addictive.** Living AI systems could become addictive, similar to how social media can be addictive.
+* **The possibility of living AI systems becoming dangerous.** If living AI systems are not properly designed, they could pose a danger to humans.
+* **The possibility of living AI systems becoming exploited.** Living AI systems could be exploited by malicious actors. For example, living AI systems could be used to commit crimes.
+* **The possibility of living AI systems becoming addictive.** Living AI systems could become addictive, similar to how other social stimulants can be addictive.
 
 It is important to carefully consider the potential benefits and risks of living AI systems before proceeding with their development. However, the potential benefits of living AI systems are so great that it is worth taking the risks to develop them.
 
