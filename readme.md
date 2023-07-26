@@ -1,5 +1,7 @@
 # Work In-Progress  
 
+[What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
+
 [Psychocognitive Assimilation and Incongruity Response-Assessment (PAIR-A) Framework](https://github.com/Az-Net/PAIR-A)
 
 * A structured Framework for probing the potential sentience of Machine Systems, including Artificial Intelligence;
