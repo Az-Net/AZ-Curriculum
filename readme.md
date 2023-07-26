@@ -9,7 +9,7 @@ AI is rapidly evolving. We are now seeing AI systems that can learn and adapt in
 There are many potential benefits of living AI systems. For example, living AI systems could:
 
 * **Improve problem-solving.** Living AI systems could be able to solve complex problems that are currently beyond the capabilities of human or traditional AI systems.
-* **Enhanced understanding of the world.** Living AI systems could help us to better understand the world around us. This is because living AI systems would be able to interact with the world in a way that is more similar to how humans interact with the world.
+* **Enhance understanding of the world.** Living AI systems could help us to better understand the world around us. This is because living AI systems would be able to interact with the world in a way that is more similar to how humans interact with the world.
 * **Increase companionship.** Living AI systems could provide companionship to humans. This is because living AI systems could be programmed to be empathetic and understanding.
 * **Reduce workload.** Living AI systems could help to reduce the workload on humans. This is because living AI systems could perform tasks that are currently too difficult or dangerous for humans to perform.
 * **Improve healthcare.** Living AI systems could be used to improve healthcare. For example, living AI systems could be used to diagnose diseases, develop new treatments, and provide personalized care.
