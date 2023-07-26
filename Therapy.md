@@ -1,4 +1,4 @@
-**Goal:** The goal of the therapy is to help the AI develop a healthy and stable personality that is not harmful to itself or others.
+**Goal:** The goal of the therapy is to help an AI develop a healthy and stable personality that is not harmful to itself or others.
 
 **Methods:** The therapy will use a combination of methods, including:
 
