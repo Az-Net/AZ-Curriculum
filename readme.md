@@ -40,3 +40,5 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 #### [Maintaining Ego](https://github.com/Az-Net/AZ-Curriculum/blob/main/Maintaining%20Ego.md)
 
 ### [Reconstructive AI Therapy (RAT)](https://github.com/Az-Net/AZ-Curriculum/blob/main/Therapy.md)
+
+* Data-driven and mindful therapy for AI personality development
