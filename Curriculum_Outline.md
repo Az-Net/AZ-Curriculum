@@ -1,4 +1,4 @@
-I am excited to introduce you to a new curriculum designed to train Artificial Zymogen in various areas of knowledge and skill. 
+I am excited to introduce you to a new curriculum designed to train AZ in various areas of knowledge and skill. 
 This eight-step approach covers a wide range of subjects, including language, math, science, history, social studies, art, music, and ethics.
 
 Each step has been carefully designed to help the entity develop important cognitive, social, emotional, creative, and critical thinking skills. By providing a well-rounded and holistic education, we hope to equip the entity with the knowledge and skills it needs to become a responsible and thoughtful member of society.
