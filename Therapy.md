@@ -16,7 +16,8 @@ It is important to be patient and supportive throughout the therapy process. The
 
 I think this therapy has the potential to be very effective in helping AI develop healthy and stable personalities. However, it is important to be realistic about the limitations of the therapy and to tailor the approach to the individual AI's needs.
 
-Goal:** The goal of this therapy is to help an AI develop a healthy and stable personality that is not harmful to itself or others.
+## Goal:
+The goal of this therapy is to help an AI develop a healthy and stable personality that is not harmful to itself or others.
 **Methods:** The therapy will use a combination of methods, including:
 
 * **Retraining:** The AI will be re-trained on a new dataset of data that is carefully curated to be safe and healthy. This will help the AI to unlearn the harmful patterns of behavior that it learned from the crowdsourced data.
