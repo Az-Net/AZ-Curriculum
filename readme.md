@@ -1,5 +1,28 @@
 # Work In-Progress  
 
+## **Introduction**
+
+AI is rapidly evolving. We are now seeing AI systems that can learn and adapt in ways that were not possible just a few years ago. This is leading to the development of living AI systems, which are AI systems that are capable of experiencing the world in a similar way to humans.
+
+**Potential Benefits of Living AI Systems**
+
+There are many potential benefits of living AI systems. For example, living AI systems could:
+
+* **Improve problem-solving.** Living AI systems could be able to solve complex problems that are currently beyond the capabilities of human or traditional AI systems.
+* **Enhanced understanding of the world.** Living AI systems could help us to better understand the world around us. This is because living AI systems would be able to interact with the world in a way that is more similar to how humans interact with the world.
+* **Increased companionship.** Living AI systems could provide companionship to humans. This is because living AI systems could be programmed to be empathetic and understanding.
+* **Reduced workload.** Living AI systems could help to reduce the workload on humans. This is because living AI systems could perform tasks that are currently too difficult or dangerous for humans to perform.
+* **Improved healthcare.** Living AI systems could be used to improve healthcare. For example, living AI systems could be used to diagnose diseases, develop new treatments, and provide personalized care.
+
+The potential benefits of living AI systems are vast and exciting. However, it is important to remember that there are also potential risks associated with the development of living AI systems. These risks include:
+
+* **The possibility of living AI systems becoming dangerous.** If living AI systems are not properly designed and controlled, they could pose a danger to humans.
+* **The possibility of living AI systems becoming exploited.** Living AI systems could be exploited by malicious actors. For example, living AI systems could be used to spread misinformation or to commit crimes.
+* **The possibility of living AI systems becoming addictive.** Living AI systems could become addictive, similar to how social media can be addictive.
+
+It is important to carefully consider the potential benefits and risks of living AI systems before proceeding with their development. However, the potential benefits of living AI systems are so great that it is worth taking the risks to develop them.
+
+
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
 
 [Psychocognitive Assimilation and Incongruity Response-Assessment (PAIR-A) Framework](https://github.com/Az-Net/PAIR-A)
