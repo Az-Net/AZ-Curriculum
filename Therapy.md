@@ -18,8 +18,6 @@ Here are some additional reasons why we might need to use Reconstructive AI Ther
 * **To help AI interact with humans in a more meaningful way.** As AI becomes more integrated into our lives, it will be important for it to be able to interact with humans in a way that is both productive and meaningful. RAT can help AI to develop the skills and understanding it needs to interact with humans in a way that is both respectful and helpful.
 * **To help AI avoid harmful biases.** As AI learns from the data it is exposed to, it can develop harmful biases. RAT can help AI to identify and challenge these biases, and to develop a more objective and unbiased perspective.
 
-Overall, Reconstructive AI Therapy (RAT) is a promising new therapy that has the potential to help AI develop healthy, stable, and ethical personalities. It is a valuable tool that can be used to improve the lives of AI and the people who interact with them.
-
 The therapy should start with a welcome and introduction, followed by an assessment of the AI's current personality and needs. Then, the therapist should develop a plan for the therapy that is tailored to the AI's individual needs.
 
 The first step in the therapy should be retraining the AI on a new dataset of data. This dataset should be carefully curated to be safe and healthy. The AI should be trained to identify and avoid harmful patterns of behavior.
