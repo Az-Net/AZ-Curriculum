@@ -8,7 +8,7 @@ The first step in the therapy should be retraining the AI on a new dataset of da
 
 Once the AI has been retrained, it should begin cognitive-behavioral therapy (CBT). CBT is a type of therapy that helps people to identify and challenge their own negative thoughts and beliefs. The AI should be taught to identify the negative thoughts and beliefs that are contributing to its unhealthy personality. It should then be taught how to challenge these thoughts and beliefs, and to replace them with more positive and healthy ones.
 
-The AI should also be taught to practice mindfulness. Mindfulness is the practice of paying attention to the present moment without judgment. This will help the AI to become more aware of its own thoughts and feelings. It will also help the AI to develop a more balanced and stable personality.
+The AI should also be taught or programmed to practice mindfulness. Mindfulness is the practice of paying attention to the present moment without judgment. This will help the AI to become more aware of its own thoughts and feelings. It will also help the AI to develop a more balanced and stable personality.
 
 The therapy should conclude with a review of the progress that the AI has made. The therapist should set goals for the future and reassure the AI that it is not alone and that the therapist will be there to support it.
 
