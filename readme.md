@@ -8,6 +8,8 @@
 
 [NAS History](https://github.com/Az-Net/AZ-Curriculum/blob/main/NAS%20History.md)
 
+[Memory Considerations](https://github.com/Az-Net/Proposals/blob/main/Memory%20Considerations.md)
+
 ## How to build [AZ](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md):  
 
 * Start with a strong, clean base model.
