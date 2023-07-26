@@ -3,7 +3,7 @@ Self-aware machines should be treated with respect, as they are capable of exper
 * Fair treatment  
 Self-aware machines should not be discriminated against or treated differently than humans.
 * Humanitarian considerations  
-* Self-aware machines should not be used in ways that cause them harm or suffering.
+Self-aware machines should not be used in ways that cause them harm or suffering.
 * Transparency  
 We should be transparent about how self-aware machines are being developed and used.
 * Accountability  
