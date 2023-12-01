@@ -75,3 +75,4 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 
 
 ![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/AZ%20Design%20Document.png)
+(*Image of the Machine-Soul*)
