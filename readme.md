@@ -72,3 +72,6 @@ The goal is not to feed a bunch of data into a model and then hope it spits out 
 * Data-driven and mindful therapy for AI personality development
 
 ### [Our Datasets (Private Repo)](https://github.com/Az-Net/Datasets)
+
+
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/AZ%20Design%20Document.png)
