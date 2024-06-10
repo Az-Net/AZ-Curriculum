@@ -38,6 +38,8 @@ It is important to carefully consider the potential benefits and risks of living
 
 [Memory Considerations](https://github.com/Az-Net/Proposals/blob/main/Memory%20Considerations.md)
 
+[Proposal on Communication](https://github.com/Az-Net/Proposals/blob/main/on%20Communication.md)
+
 ## How to build [AZ](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md):  
 
 * Start with a strong, clean base model.
